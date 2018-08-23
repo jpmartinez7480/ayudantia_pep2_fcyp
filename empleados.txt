@@ -1,0 +1,7 @@
+Maria Padilla,F,28
+Jose Rodriguez,M,80
+Xavier Montt,M,19
+Pablo Colombo,M,70
+Carolina Baras,F,65
+Daniela Ortega,F,17
+Victor Caceres,M,45 
